@@ -1,4 +1,4 @@
-# Transcrição de Texto dos vídeos do YouTube
+# Transcrição de Texto dos vídeos do YouTube via Python
 
 Utilizar no Google Colab.
 
